@@ -72,6 +72,7 @@
         <framework src="com.pushwoosh:pushwoosh-inbox:6.3.0"/>
         <framework src="com.pushwoosh:pushwoosh-inbox-ui:6.3.0"/>
 		<framework src="com.pushwoosh:pushwoosh-huawei:6.3.0"/>
+		<resource-file src="google-services.json" target="app/google-services.json" />
 	</platform>
 
 	<!-- ios -->
