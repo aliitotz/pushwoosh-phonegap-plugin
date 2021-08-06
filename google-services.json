@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058675294452",
+    "project_id": "cordova-call",
+    "storage_bucket": "cordova-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058675294452:android:5fc7bda83a9b44c67f9ea1",
+        "android_client_info": {
+          "package_name": "com.outsystemscloud.aliakmad.VideoCallSimulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058675294452-lthku23rnap2jj6pj76q15fn33jjr25t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPwR54gH7w9E69MhJA3GvZFMkeOOCRnRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058675294452-lthku23rnap2jj6pj76q15fn33jjr25t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
